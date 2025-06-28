@@ -7,7 +7,7 @@
   - 稀疏架构｜难以优化
 
 
-# 1.B [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+# 1.Blog [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - U - V - E
 - 
 - MLP
