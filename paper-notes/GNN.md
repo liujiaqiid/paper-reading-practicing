@@ -1,4 +1,4 @@
-
+#### GNN
 - **概念**：图神经网络（Graph Neural Network, GNN）是一类专门处理图结构数据的深度学习框架
   - 复杂关系建模的重要工具，能够利用图的拓扑结构提取高阶关联特征
 - **能力**：能够直接对图中的节点、边及其复杂关系进行特征提取和模式挖掘，适用于节点分类、图聚类、预测、生成等任务。
@@ -16,8 +16,13 @@
   - 图注意力网络（GAT）：通过注意力机制区分邻居节点的重要性
   - 图生成网络：如DGMG（基于强化学习的图生成）和GraphRNN（通过序列生成模拟图演化）
 
+#### 图论（Graph Theory）
+- 图论是数学的一个分支，主要研究图（Graph）的性质与应用。
+- 图由顶点（Vertex）和边（Edge）组成，顶点代表事物，边表示事物间的特定关系
+- 图论起源于18世纪欧拉对柯尼斯堡七桥问题的研究
 
-# 1.Blog [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+
+#### 1.Blog [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - U - V - E
 - MLP
 ![image](https://github.com/user-attachments/assets/1ba73c54-e5e6-411c-925f-a576017bf0a6)
