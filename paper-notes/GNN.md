@@ -1,3 +1,5 @@
+
+
 #### GNN
 - **概念**：图神经网络（Graph Neural Network, GNN）是一类专门处理图结构数据的深度学习框架
   - 复杂关系建模的重要工具，能够利用图的拓扑结构提取高阶关联特征
@@ -26,4 +28,13 @@
 - U - V - E
 - MLP
 ![image](https://github.com/user-attachments/assets/1ba73c54-e5e6-411c-925f-a576017bf0a6)
+
+
+
+#### Generative Adversarial Nets 生成式 对抗 网络 （）
+- GAN： 主要应用于图片生成
+- 机器学习两大类模型
+  - 分辨类模型：类别、预测实数
+  - 生成式模型
+
 
